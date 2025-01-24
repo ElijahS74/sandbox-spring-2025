@@ -45,3 +45,4 @@ class AlgorithmTest {
         assertThrows(IllegalArgumentException.class, () -> Algorithm.fibonacciReccursive(-1));
     }
 }
+
